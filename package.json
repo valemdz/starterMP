@@ -36,7 +36,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "ajv": "^4.11.8",
+    "ajv": "^6.12.3",
     "bluebird": "^3.4.7",
     "fs": "0.0.1-security",
     "mercadopago": "^1.0.23",
